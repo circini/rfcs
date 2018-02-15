@@ -1,4 +1,4 @@
-# rfcs
+# Circini RFCs
 RFCs for Circini
 
 ## License
